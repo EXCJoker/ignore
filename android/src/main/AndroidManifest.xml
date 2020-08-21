@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.flutter.plugin.test.flutter_plugin_test_ignore">
+</manifest>
